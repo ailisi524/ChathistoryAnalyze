@@ -1,0 +1,14 @@
+jieba~=0.42.1
+numpy~=1.26.4
+yaml~=0.2.5
+pyyaml~=6.0.1
+gensim~=4.2.0
+keras~=2.10.0
+pandas~=1.5.3
+scikit-learn~=1.0.2
+markdown~=3.4.1
+flask~=2.2.5
+werkzeug~=2.3.8
+matplotlib~=3.5.3
+wordcloud~=1.9.3
+pillow~=10.2.0
