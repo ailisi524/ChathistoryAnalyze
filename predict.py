@@ -155,7 +155,7 @@ def generate_report(chat_records,word_freq_path, word_cloud_path, save_directory
     import os
     from openai import OpenAI
 
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "your own api"
     openai.api_key = os.environ["OPENAI_API_KEY"]
     client2 = OpenAI()
 
